@@ -8,6 +8,11 @@
   * https://github.com/tensorflow/docs/blob/master/site/en/r1/tutorials/sequences/audio_recognition.md
 * Pete Warden (2018) Speech Commands: A Dataset for Limited-Vocabulary Speech. arXiv:1804.03209v1
 
+## Content
+
+* Word-based Audio Data Processing: [markdown](word-based_preprocessing.md)
+* Word-Based Training and Evaluation: [markdown](word_training_and_evaluation.md)
+
 ## Quick Start
 
 The following is a way to demonstrate examples of this repository.
